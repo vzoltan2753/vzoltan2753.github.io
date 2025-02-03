@@ -1,0 +1,15 @@
+- id: RiTA_HAR
+  title: "Multimodal Transformer Models for Human Action Classification"
+  venue: RiTA 2024
+  description: "We investigate how best to fuse multimodal information for the task of human action recognition."
+  # project_page: NotAvaiable
+  # arxiv: NotAvaiable
+  image: Rita_HAR.png
+  authors:
+    - zvarga
+    - esteve
+    - danielsli
+    - dongheuilee
+  awards:
+    - "Winner of Best Intelligence Paper at the International Conference on Robot Intelligence Technology and Applications (RiTA 2024)"
+

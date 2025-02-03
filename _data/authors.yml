@@ -1,0 +1,17 @@
+danielsli:
+  first_name: Daniel
+  last_name: Sliwowski
+  website: https://www.tuwien.at/en/etit/ict/asl/team/daniel-sliwowski
+esteve:
+  first_name: Esteve
+  last_name: Valls Mascaro
+  website: https://evm7.github.io
+dongheuilee:
+  first_name: Dongheui 
+  last_name: Lee
+  website: https://www.tuwien.at/en/etit/ict/asl/team/dongheui-lee
+zvarga:
+  first_name: Zoltan 
+  last_name: Varga
+  website: https://vzoltan2753.github.io
+  is_me: true
